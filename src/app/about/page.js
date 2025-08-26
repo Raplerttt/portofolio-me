@@ -237,7 +237,7 @@ export default function AboutPage() {
         <div className="text-center bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-12 text-white">
           <h2 className="text-3xl font-bold mb-4">Ready to work together?</h2>
           <p className="text-xl mb-8 opacity-90">
-            Let's discuss how I can help bring your ideas to life
+            {"Let's discuss how I can help bring your ideas to life"}
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
